@@ -48,3 +48,7 @@ ln -sf dotfiles/.emacs.d .
 #set user name & email
 git config --global user.name dave
 git config --global user.email dave@pixelmetrics.com
+
+# install node_modules
+npm install
+
